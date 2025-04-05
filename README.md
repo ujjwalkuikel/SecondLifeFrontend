@@ -1,6 +1,7 @@
-Team: Second Life
-Member: Ujjwal Kuikel
-Track: Sustainability
+## Team: Second Life
+
+## Member: Ujjwal Kuikel
+## Track: Sustainability
 
 ## Project Title: Second Life - Sustainability App
 ## Description
